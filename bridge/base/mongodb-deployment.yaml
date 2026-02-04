@@ -1,0 +1,32 @@
+#! mongodb-deployment.yaml
+# Generated code, do not edit
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: mongodb
+    namespace: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: mongodb
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            com.docker.compose.project: projet_marmiton
+            com.docker.compose.service: mongodb
+    strategy:
+        type: Recreate
+    template:
+        metadata:
+            labels:
+                com.docker.compose.project: projet_marmiton
+                com.docker.compose.service: mongodb
+                com.docker.compose.network.data_net: "true"
+        spec:
+            containers:
+                - name: marmiton-mongo
+                  image: mongo:latest
+                  imagePullPolicy: IfNotPresent
+                  ports:
+                    - name: mongodb-27017
+                      containerPort: 27017

@@ -1,0 +1,822 @@
+[
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.marmiton.org/"
+    },
+    {
+        "titre_lien": "Mes recettes",
+        "lien": "https://www.marmiton.org/espace-perso/mon-carnet-de-recettes.aspx"
+    },
+    {
+        "titre_lien": "Paramètres de compte",
+        "lien": "https://www.marmiton.org/my-profile/edit"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.kiosquemag.com/titres/marmiton/offres"
+    },
+    {
+        "titre_lien": "Entrées",
+        "lien": "https://www.marmiton.org/recettes/index/categorie/entree/"
+    },
+    {
+        "titre_lien": "Plats",
+        "lien": "https://www.marmiton.org/recettes/index/categorie/plat-principal/"
+    },
+    {
+        "titre_lien": "Desserts",
+        "lien": "https://www.marmiton.org/recettes/index/categorie/dessert/"
+    },
+    {
+        "titre_lien": "Boissons",
+        "lien": "https://www.marmiton.org/recettes/index/categorie/boissons/"
+    },
+    {
+        "titre_lien": "Brunch & Petit Déj",
+        "lien": "https://www.marmiton.org/dossier-petit-dejeuner-et-brunch"
+    },
+    {
+        "titre_lien": "Au menu ce soir avec Cookeo de",
+        "lien": "https://www.marmiton.org/dossier-au-menu-ce-soir-avec-cookeo"
+    },
+    {
+        "titre_lien": "Recettes rapides et faciles",
+        "lien": "https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html"
+    },
+    {
+        "titre_lien": "Recettes anti-gaspi",
+        "lien": "https://www.marmiton.org/mieux-manger/anti-gaspi-ssc31.html"
+    },
+    {
+        "titre_lien": "L’excellence italienne au quotidien avec",
+        "lien": "https://www.marmiton.org/recettes/recette-meme-auteur.aspx?pseudo=recettesriso-gallo"
+    },
+    {
+        "titre_lien": "Nouvelles Recettes",
+        "lien": "https://www.marmiton.org/recettes/nouveautes.aspx"
+    },
+    {
+        "titre_lien": "Top des recettes",
+        "lien": "https://www.marmiton.org/recettes/top-internautes.aspx"
+    },
+    {
+        "titre_lien": "Proposer une recette",
+        "lien": "https://www.marmiton.org/reloaded/users/login?destUrl=/recettes/proposer"
+    },
+    {
+        "titre_lien": "Recettes Healthy",
+        "lien": "https://www.marmiton.org/recettes/selection_mincealors.aspx"
+    },
+    {
+        "titre_lien": "Recettes Végétariennes",
+        "lien": "https://www.marmiton.org/recettes/selection_vegetarien.aspx"
+    },
+    {
+        "titre_lien": "Recettes Vegan",
+        "lien": "https://www.marmiton.org/recettes/selection_recette_vegan.aspx"
+    },
+    {
+        "titre_lien": "Recettes Sans Gluten",
+        "lien": "https://www.marmiton.org/recettes/selection_sans_gluten.aspx"
+    },
+    {
+        "titre_lien": "Noël",
+        "lien": "https://www.marmiton.org/dossier-noel/"
+    },
+    {
+        "titre_lien": "Chandeleur",
+        "lien": "https://www.marmiton.org/dossier-chandeleur"
+    },
+    {
+        "titre_lien": "Pâques",
+        "lien": "https://www.marmiton.org/dossier-paques"
+    },
+    {
+        "titre_lien": "Saint-Valentin",
+        "lien": "https://www.marmiton.org/dossier-saint-valentin"
+    },
+    {
+        "titre_lien": "Halloween",
+        "lien": "https://www.marmiton.org/halloween/halloween-tp123693.html"
+    },
+    {
+        "titre_lien": "Ramadan",
+        "lien": "https://www.marmiton.org/dossier-ramadan"
+    },
+    {
+        "titre_lien": "Univers Electroménager",
+        "lien": "https://www.marmiton.org/tout-sur-electromenagers-sc34.html"
+    },
+    {
+        "titre_lien": "Gros Electroménager",
+        "lien": "https://www.marmiton.org/tout-sur-electromenagers/gros-electromenager-ssc84.html"
+    },
+    {
+        "titre_lien": "Petit Electroménager",
+        "lien": "https://www.marmiton.org/tout-sur-electromenagers/petit-electromenager-ssc79.html"
+    },
+    {
+        "titre_lien": "Cuisine du Monde",
+        "lien": "https://www.marmiton.org/cuisine-du-monde-sc7.html"
+    },
+    {
+        "titre_lien": "Recettes Italiennes",
+        "lien": "https://www.marmiton.org/dossier-viva-italia"
+    },
+    {
+        "titre_lien": "Recettes Japonaises",
+        "lien": "https://www.marmiton.org/recettes/selection_recette_japonaise.aspx"
+    },
+    {
+        "titre_lien": "Recettes Indiennes",
+        "lien": "https://www.marmiton.org/recettes/selection_indienne.aspx"
+    },
+    {
+        "titre_lien": "Recettes Grecque",
+        "lien": "https://www.marmiton.org/recettes/selection_recettes_grecques.aspx"
+    },
+    {
+        "titre_lien": "Cuisine Française",
+        "lien": "https://www.marmiton.org/cuisine-francaise-sc13.html"
+    },
+    {
+        "titre_lien": "Recettes Libanaises",
+        "lien": "https://www.marmiton.org/recettes/selection_cuisine_libanaise.aspx"
+    },
+    {
+        "titre_lien": "Conseils & Astuces",
+        "lien": "https://www.marmiton.org/trucs-et-astuces/astuces-de-cuisine-tp133284.html"
+    },
+    {
+        "titre_lien": "Mieux manger",
+        "lien": "https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html"
+    },
+    {
+        "titre_lien": "Mieux Acheter",
+        "lien": "https://www.marmiton.org/mieux-acheter/shopping-ssc20.html"
+    },
+    {
+        "titre_lien": "Actus Food",
+        "lien": "https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html"
+    },
+    {
+        "titre_lien": "Regardez Marmiton TV",
+        "lien": "https://tv.marmiton.org"
+    },
+    {
+        "titre_lien": "Rejoignez Marmitest",
+        "lien": "https://marmitest.marmiton.org/"
+    },
+    {
+        "titre_lien": "Nos livres de cuisine avec",
+        "lien": "https://www.marmiton.org/dossier-les-livres-de-cuisine-marmiton-avec-les-editions-michel-lafon"
+    },
+    {
+        "titre_lien": "Notre électroménager avec",
+        "lien": "https://www.marmiton.org/dossier-cuisinez-equipe-avec-marmiton-et-livoo"
+    },
+    {
+        "titre_lien": "Prix Marmiton 2025",
+        "lien": "https://www.marmiton.org/prix-marmiton-2025/prix-marmiton-2025-hub-tp204186.html"
+    },
+    {
+        "titre_lien": "Le magazine Marmiton",
+        "lien": "https://www.marmiton.org/none/marmiton-recettes-astuces-et-magazine-culinaire-s4121974.html"
+    },
+    {
+        "titre_lien": "Qu'est-ce qu'on mange ce soir ?",
+        "lien": "https://www.marmiton.org/qu-est-ce-qu-on-mange-ce-soir-sc29.html"
+    },
+    {
+        "titre_lien": "Du caddie à l'assiette",
+        "lien": "https://www.marmiton.org/supermarchs-pouvoir-dachat-sc39.html"
+    },
+    {
+        "titre_lien": "À fond le Petit Déj’",
+        "lien": "https://www.marmiton.org/petit-dej-et-brunch-sc25.html"
+    },
+    {
+        "titre_lien": "Tout un fromage",
+        "lien": "https://www.marmiton.org/dossier-100-fromage"
+    },
+    {
+        "titre_lien": "Elle apparaît 30 secondes dans un film… et devient la pizza la plus célèbre du monde",
+        "lien": "https://www.marmiton.org/tendance/elle-apparait-30-secondes-dans-un-film-et-devient-la-pizza-la-plus-celebre-du-monde-s4124021.html"
+    },
+    {
+        "titre_lien": "par Solweig Ely",
+        "lien": "https://www.marmiton.org/author/28404"
+    },
+    {
+        "titre_lien": "Non, le fromage de chèvre n’est pas à bannir : ce médecin recommande ces 4 références",
+        "lien": "https://www.marmiton.org/bien-choisir-ses-aliments/non-le-fromage-de-chevre-n-est-pas-a-bannir-ce-medecin-recommande-ces-4-references-s4123925.html"
+    },
+    {
+        "titre_lien": "par Fostine Carracillo",
+        "lien": "https://www.marmiton.org/author/27638"
+    },
+    {
+        "titre_lien": "\"J’en ai plein !\" : Cyril Lignac dévoile enfin les plats qu’il prépare avec amour pour sa compagne",
+        "lien": "https://www.marmiton.org/chefs/j-en-ai-plein-cyril-lignac-devoile-enfin-les-plats-qu-il-prepare-avec-amour-pour-sa-compagne-s4123839.html"
+    },
+    {
+        "titre_lien": "par Inès Aitlhaj",
+        "lien": "https://www.marmiton.org/author/28394"
+    },
+    {
+        "titre_lien": "Oubliez les lasagnes bolognaises : cette version montagnarde fait fondre tout le monde cet hiver",
+        "lien": "https://www.marmiton.org/recettes/oubliez-les-lasagnes-bolognaises-cette-version-montagnarde-fait-fondre-tout-le-monde-cet-hiver-s4123855.html"
+    },
+    {
+        "titre_lien": "par Margot Iodice",
+        "lien": "https://www.marmiton.org/author/27739"
+    },
+    {
+        "titre_lien": "Feuilleté au jambon",
+        "lien": "https://www.marmiton.org/recettes/recette_feuillete-au-jambon_15869.aspx"
+    },
+    {
+        "titre_lien": "Pâte à crêpes (des plus raffinées)",
+        "lien": "https://www.marmiton.org/recettes/recette_pate-a-crepes-des-plus-raffinees_49665.aspx"
+    },
+    {
+        "titre_lien": "Patates douces crousti-moelleuses rôties au four",
+        "lien": "https://www.marmiton.org/recettes/recette_patates-douces-crousti-moelleuses-roties-au-four_88382.aspx"
+    },
+    {
+        "titre_lien": "Hachis façon Parmentier de maïs à la chilienne (Pastel de choclos)",
+        "lien": "https://www.marmiton.org/recettes/recette_hachis-facon-parmentier-de-mais-a-la-chilienne-pastel-de-choclos_65907.aspx"
+    },
+    {
+        "titre_lien": "Quiche tatin",
+        "lien": "https://www.marmiton.org/recettes/recette_quiche-tatin_14309.aspx"
+    },
+    {
+        "titre_lien": "Bricks au thon faciles",
+        "lien": "https://www.marmiton.org/recettes/recette_bricks-au-thon-faciles_92390.aspx"
+    },
+    {
+        "titre_lien": "Rappel dans les magasins Intermarché suite à une contamination bactérienne, il s’agit de grignottes de poulet",
+        "lien": "https://www.marmiton.org/focus-ingredient/rappel-dans-les-magasins-intermarche-suite-a-une-contamination-bacterienne-il-s-agit-de-grignottes-de-poulet-s4124391.html"
+    },
+    {
+        "titre_lien": "Ce remède de grand-mère perd tous ses bienfaits à cause d’une erreur que 90% des gens font",
+        "lien": "https://www.marmiton.org/trucs-et-astuces/ce-remede-de-grand-mere-perd-tous-ses-bienfaits-a-cause-d-une-erreur-que-90-des-gens-font-s4124392.html"
+    },
+    {
+        "titre_lien": "Quels sont meilleurs robots pâtissiers ?",
+        "lien": "https://www.marmiton.org/shopping/choisir-son-robot-patissier-les-meilleurs-modeles-s4000192.html"
+    },
+    {
+        "titre_lien": "Comparatif des meilleures yaourtières et nos conseils pour la choisir",
+        "lien": "https://www.marmiton.org/shopping/quelle-est-la-meilleure-yaourtiere-s2923681.html"
+    },
+    {
+        "titre_lien": "Le jury n’en revient toujours pas : ces deux Français viennent de remporter le championnat du monde de la pâtisserie",
+        "lien": "https://www.marmiton.org/chefs/le-jury-n-en-revient-toujours-pas-ces-deux-francais-viennent-de-remporter-le-championnat-du-monde-de-la-patisserie-s4124402.html"
+    },
+    {
+        "titre_lien": "Dans un commentaire, cet utilisateur Marmiton donne une astuce pour éviter que le riz colle, et c’est surprenant !",
+        "lien": "https://www.marmiton.org/astuces/dans-un-commentaire-cet-utilisateur-marmiton-donne-une-astuce-pour-eviter-que-le-riz-colle-et-c-est-surprenant-s4124259.html"
+    },
+    {
+        "titre_lien": "Philippe Etchebest : ses secrets pour une pâte à crêpes parfaite !",
+        "lien": "https://www.marmiton.org/none/philippe-etchebest-ses-secrets-pour-une-pate-a-crepes-parfaite-s4035476.html"
+    },
+    {
+        "titre_lien": "Nos idées de crêpes salées",
+        "lien": "https://www.marmiton.org/chandeleur/crepes-salees-s3044475.html"
+    },
+    {
+        "titre_lien": "Comment conserver ses crêpes ?",
+        "lien": "https://www.marmiton.org/none/comment-conserver-ses-crepes-s4007836.html"
+    },
+    {
+        "titre_lien": "Comment faire des crêpes parfaites sans balance ?",
+        "lien": "https://www.marmiton.org/trucs-et-astuces/comment-faire-des-crepes-parfaites-sans-balance-s4056594.html"
+    },
+    {
+        "titre_lien": "Comment cuire des œufs durs ?",
+        "lien": "https://www.marmiton.org/cuisine-facile/comment-cuire-les-oeufs-durs-s2998739.html"
+    },
+    {
+        "titre_lien": "Comment cuire des oeufs mollets ?",
+        "lien": "https://www.marmiton.org/cuisine-facile/comment-cuire-des-oeufs-mollets-s3000066.html"
+    },
+    {
+        "titre_lien": "10 idées ultra-simples pour décorer sa galette des rois et obtenir un effet \"wow\" !",
+        "lien": "https://www.marmiton.org/epiphanie/10-idees-ultra-simples-pour-decorer-sa-galette-des-rois-et-obtenir-un-effet-wow-s4055963.html"
+    },
+    {
+        "titre_lien": "Ne ruinez plus votre galette des rois : voici comment la réchauffer comme un pro",
+        "lien": "https://www.marmiton.org/trucs-et-astuces/comment-rechauffer-la-galette-des-rois-s4034683.html"
+    },
+    {
+        "titre_lien": "Apéritifs",
+        "lien": "https://www.marmiton.org/recettes/index/categorie/aperitif-ou-buffet/"
+    },
+    {
+        "titre_lien": "Parmentier de canard aux légumes d’automne",
+        "lien": "https://www.marmiton.org/recettes/recette_parmentier-de-canard-aux-legumes-d-automne_539143.aspx"
+    },
+    {
+        "titre_lien": "Pâtes crémeuses au chorizo, tomates confites et parmesan",
+        "lien": "https://www.marmiton.org/recettes/recette_pates-cremeuses-au-chorizo-tomates-confites_539147.aspx"
+    },
+    {
+        "titre_lien": "Sauté de dinde à la moutarde et aux châtaignes",
+        "lien": "https://www.marmiton.org/recettes/recette_saute-de-dinde-a-la-moutarde-et-aux-chataignes_539131.aspx"
+    },
+    {
+        "titre_lien": "Brioche roulée à la pistache",
+        "lien": "https://www.marmiton.org/recettes/recette_brioche-roulee-a-la-pistache_539148.aspx"
+    },
+    {
+        "titre_lien": "Peut-on congeler des viennoiseries pour en profiter tout au long de la semaine ?",
+        "lien": "https://www.marmiton.org/astuces/peut-on-congeler-des-viennoiseries-pour-en-profiter-tout-au-long-de-la-semaine-s4084386.html"
+    },
+    {
+        "titre_lien": "Vous avez besoin de seulement 3 ingrédients pour préparer votre granola du petit-déjeuner !",
+        "lien": "https://www.marmiton.org/recettes/vous-avez-besoin-de-seulement-3-ingredients-pour-preparer-votre-granola-du-petit-dejeuner-s4082724.html"
+    },
+    {
+        "titre_lien": "Quelles recettes préparer pour un batch cooking spécial petit-déjeuner ?",
+        "lien": "https://www.marmiton.org/petit-dejeuner/quelles-recettes-preparer-pour-un-batch-cooking-special-petit-dejeuner-s4084434.html"
+    },
+    {
+        "titre_lien": "Nos recettes salées pour le petit-déjeuner",
+        "lien": "https://www.marmiton.org/recettes/album1368967/recettes-salees-pour-le-petit-dejeuner-0.html"
+    },
+    {
+        "titre_lien": "Cake marbré aux pépites de chocolat Nestlé Dessert®",
+        "lien": "https://www.marmiton.org/recettes/recette_cake-marbre-aux-pepites-de-chocolat_532103.aspx"
+    },
+    {
+        "titre_lien": "Cœur coulant pistache chocolat Noir Nestlé Dessert®",
+        "lien": "https://www.marmiton.org/recettes/recette_coeur-coulant-pistache-chocolat-noir-nestle-dessert_538736.aspx"
+    },
+    {
+        "titre_lien": "Cookies aux pépites de chocolat au Lait Nestlé Dessert®",
+        "lien": "https://www.marmiton.org/recettes/recette_cookies-aux-pepites-de-chocolat-au-lait-nestle-dessert_538717.aspx"
+    },
+    {
+        "titre_lien": "Muffins myrtilles et chocolat blanc Nestlé Dessert®",
+        "lien": "https://www.marmiton.org/recettes/recette_muffins-myrtilles-et-chocolat-blanc-nestle-dessert_536434.aspx"
+    },
+    {
+        "titre_lien": "Orange",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/orange"
+    },
+    {
+        "titre_lien": "Clémentine",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/clementine"
+    },
+    {
+        "titre_lien": "Mandarine",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/mandarine"
+    },
+    {
+        "titre_lien": "Pomme",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/pomme"
+    },
+    {
+        "titre_lien": "Poire",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/poire"
+    },
+    {
+        "titre_lien": "Betterave",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/betterave"
+    },
+    {
+        "titre_lien": "Brocoli",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/brocoli"
+    },
+    {
+        "titre_lien": "Epignards",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/epinards"
+    },
+    {
+        "titre_lien": "Panais",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/panais"
+    },
+    {
+        "titre_lien": "Poireau",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/poireau"
+    },
+    {
+        "titre_lien": "Menu de la semaine",
+        "lien": "https://www.marmiton.org/recettes/menu-de-la-semaine.aspx"
+    },
+    {
+        "titre_lien": "Accras de Butternut",
+        "lien": "https://www.marmiton.org/recettes/recette_accras-de-butternut_342606.aspx"
+    },
+    {
+        "titre_lien": "Trois façons d'accommoder les nouilles chinoises",
+        "lien": "https://www.marmiton.org/recettes/recette_trois-facons-d-accommoder-les-nouilles-chinoises_33436.aspx"
+    },
+    {
+        "titre_lien": "Brioche au Nutella",
+        "lien": "https://www.marmiton.org/recettes/recette_brioche-au-nutella_313193.aspx"
+    },
+    {
+        "titre_lien": "Soupe haricots blancs chorizo",
+        "lien": "https://www.marmiton.org/recettes/recette_soupe-haricots-blancs-chorizo_33075.aspx"
+    },
+    {
+        "titre_lien": "Potée au choux et saucisse de Morteau",
+        "lien": "https://www.marmiton.org/recettes/recette_potee-au-choux-et-saucisse-de-morteaux_105755.aspx"
+    },
+    {
+        "titre_lien": "Crème renversée vite faite",
+        "lien": "https://www.marmiton.org/recettes/recette_creme-renversee-vite-faite_13451.aspx"
+    },
+    {
+        "titre_lien": "Gratin léger d'endives au thon",
+        "lien": "https://www.marmiton.org/recettes/recette_gratin-leger-d-endives-au-thon_41972.aspx"
+    },
+    {
+        "titre_lien": "Papillote de saumon à la mozzarella",
+        "lien": "https://www.marmiton.org/recettes/recette_papillote-de-saumon-a-la-mozzarella_23382.aspx"
+    },
+    {
+        "titre_lien": "Crumble aux poires, amandes et chocolat",
+        "lien": "https://www.marmiton.org/recettes/recette_crumble-aux-poires-amandes-et-chocolat_15174.aspx"
+    },
+    {
+        "titre_lien": "Toasts mozzarella",
+        "lien": "https://www.marmiton.org/recettes/recette_toasts-mozzarella_15938.aspx"
+    },
+    {
+        "titre_lien": "Waterzooi de poulet à la Blanche de Hoegaarden et au poivre rose",
+        "lien": "https://www.marmiton.org/recettes/recette_waterzooi-de-poulet-a-la-blanche-de-hoegaarden-et-au-poivre-rose_25610.aspx"
+    },
+    {
+        "titre_lien": "Flan coco",
+        "lien": "https://www.marmiton.org/recettes/recette_flan-coco_16603.aspx"
+    },
+    {
+        "titre_lien": "Verrine des Îles (crevettes et mangue)",
+        "lien": "https://www.marmiton.org/recettes/recette_verrine-des-iles-crevettes-et-mangue_66917.aspx"
+    },
+    {
+        "titre_lien": "Soupe au chou vert",
+        "lien": "https://www.marmiton.org/recettes/recette_soupe-au-chou-vert_54188.aspx"
+    },
+    {
+        "titre_lien": "Petits choux à la crème pâtissière",
+        "lien": "https://www.marmiton.org/recettes/recette_petits-choux-a-la-creme-patissiere_20914.aspx"
+    },
+    {
+        "titre_lien": "Céleri rémoulade léger et diététique",
+        "lien": "https://www.marmiton.org/recettes/recette_celeri-remoulade-leger-et-dietetique_336642.aspx"
+    },
+    {
+        "titre_lien": "Pot-au-feu des familles",
+        "lien": "https://www.marmiton.org/recettes/recette_pot-au-feu-des-familles_41125.aspx"
+    },
+    {
+        "titre_lien": "Gâteau reine de saba",
+        "lien": "https://www.marmiton.org/recettes/recette_gateau-reine-de-saba_28239.aspx"
+    },
+    {
+        "titre_lien": "Soufflé au comté (sans beurre)",
+        "lien": "https://www.marmiton.org/recettes/recette_souffle-au-comte_26982.aspx"
+    },
+    {
+        "titre_lien": "Chou farci végétarien",
+        "lien": "https://www.marmiton.org/recettes/recette_chou-farci-vegetarien_61856.aspx"
+    },
+    {
+        "titre_lien": "Pâte à crêpes au lait de coco",
+        "lien": "https://www.marmiton.org/recettes/recette_pate-a-crepes-au-lait-de-coco_69226.aspx"
+    },
+    {
+        "titre_lien": "Pâte à crêpes",
+        "lien": "https://www.marmiton.org/recettes/recette_pate-a-crepes_12372.aspx"
+    },
+    {
+        "titre_lien": "Moelleux au chocolat",
+        "lien": "https://www.marmiton.org/recettes/recette_veritable-moelleux-au-chocolat_12825.aspx"
+    },
+    {
+        "titre_lien": "Flan pâtissier",
+        "lien": "https://www.marmiton.org/recettes/recette_flan-patissier-traditionnel_15330.aspx"
+    },
+    {
+        "titre_lien": "Tiramisu aux spéculoos",
+        "lien": "https://www.marmiton.org/recettes/recette_tiramisu-aux-speculoos_36386.aspx"
+    },
+    {
+        "titre_lien": "Madeleines",
+        "lien": "https://www.marmiton.org/recettes/recette_madeleines-faciles_17700.aspx"
+    },
+    {
+        "titre_lien": "Pavlova",
+        "lien": "https://www.marmiton.org/recettes/recette_pavlova_16007.aspx"
+    },
+    {
+        "titre_lien": "Camembert rôti au miel",
+        "lien": "https://www.marmiton.org/recettes/recette_camembert-roti-au-miel_45038.aspx"
+    },
+    {
+        "titre_lien": "Filet mignon de porc",
+        "lien": "https://www.marmiton.org/recettes/recette_filet-mignon-de-porc-a-la-moutarde_36310.aspx"
+    },
+    {
+        "titre_lien": "Hachis Parmentier",
+        "lien": "https://www.marmiton.org/recettes/recette_hachis-parmentier_17639.aspx"
+    },
+    {
+        "titre_lien": "Risotto aux champignons",
+        "lien": "https://www.marmiton.org/recettes/recette_risotto-aux-champignons_312215.aspx"
+    },
+    {
+        "titre_lien": "Pizza maison",
+        "lien": "https://www.marmiton.org/recettes/recette_pizza-maison_313213.aspx"
+    },
+    {
+        "titre_lien": "Rôti de bœuf au four",
+        "lien": "https://www.marmiton.org/recettes/recette_roti-de-boeuf-au-four-tout-simple_342546.aspx"
+    },
+    {
+        "titre_lien": "Pavés de saumon au four",
+        "lien": "https://www.marmiton.org/recettes/recette_paves-de-saumon-au-four-facile_80135.aspx"
+    },
+    {
+        "titre_lien": "Riz cantonais",
+        "lien": "https://www.marmiton.org/recettes/recette_riz-cantonais-facile_27686.aspx"
+    },
+    {
+        "titre_lien": "Moussaka",
+        "lien": "https://www.marmiton.org/recettes/recette_la-vraie-moussaka-grecque_72593.aspx"
+    },
+    {
+        "titre_lien": "Falafel",
+        "lien": "https://www.marmiton.org/recettes/recette_falafel-croquettes-de-pois-chiches_23038.aspx"
+    },
+    {
+        "titre_lien": "Œufs mollets",
+        "lien": "https://www.marmiton.org/recettes/recette_oeufs-mollet-de-ma-grand-mere-facile_197487.aspx"
+    },
+    {
+        "titre_lien": "Taboulé",
+        "lien": "https://www.marmiton.org/recettes/recette_taboule-rapide_93815.aspx"
+    },
+    {
+        "titre_lien": "Recettes de saisons",
+        "lien": "https://www.marmiton.org/cuisine-du-quotidien/album1316818/recettes-des-meilleurs-plats-d-hiver-0.html"
+    },
+    {
+        "titre_lien": "Boeuf bourguignon : la vraie recette",
+        "lien": "https://www.marmiton.org/recettes/recette_boeuf-bourguignon_18889.aspx"
+    },
+    {
+        "titre_lien": "Blanquette de veau : recette traditionnelle",
+        "lien": "https://www.marmiton.org/recettes/recette_blanquette-de-veau-facile_19219.aspx"
+    },
+    {
+        "titre_lien": "Tartiflette : la vraie recette",
+        "lien": "https://www.marmiton.org/recettes/recette_la-vraie-tartiflette_17634.aspx"
+    },
+    {
+        "titre_lien": "Lasagnes à la bolognaise",
+        "lien": "https://www.marmiton.org/recettes/recette_lasagnes-a-la-bolognaise_18215.aspx"
+    },
+    {
+        "titre_lien": "Galette des rois à la frangipane",
+        "lien": "https://www.marmiton.org/recettes/recette_galette-des-rois-a-la-frangipane_20147.aspx"
+    },
+    {
+        "titre_lien": "Gaufres faciles et légères",
+        "lien": "https://www.marmiton.org/recettes/recette_gaufres-faciles-et-legeres_87278.aspx"
+    },
+    {
+        "titre_lien": "Gâteau au yaourt facile",
+        "lien": "https://www.marmiton.org/recettes/recette_gateau-au-yaourt-facile_73370.aspx"
+    },
+    {
+        "titre_lien": "On casse la croûte : le livre de recettes Marmiton qui fait croustiller la cuisine du quotidien",
+        "lien": "https://www.marmiton.org/livres-de-cuisine/on-casse-la-croute-le-livre-qui-fait-croustiller-la-cuisine-du-quotidien-s4123648.html"
+    },
+    {
+        "titre_lien": "Vous avez un Airfryer ? Ce livre de recettes va transformer vos plats en véritables bombes de gourmandise",
+        "lien": "https://www.marmiton.org/livres-de-cuisine/vous-avez-un-airfryer-ce-livre-de-recettes-va-transformer-vos-plats-en-veritables-bombes-de-gourmandise-s4123013.html"
+    },
+    {
+        "titre_lien": "En manque d'inspiration pour vos cadeaux de Noël ? Voici 8 livres Marmiton qui vont faire sensation sous le sapin",
+        "lien": "https://www.marmiton.org/livres-de-cuisine/sous-le-sapin-des-idees-marmiton-qui-font-vraiment-plaisir-s4121772.html"
+    },
+    {
+        "titre_lien": "Notre sélection idées-cadeaux gourmands pour Noël 2025",
+        "lien": "https://www.marmiton.org/none/notre-selection-idees-cadeaux-gourmands-pour-noel-2025-s4121339.html"
+    },
+    {
+        "titre_lien": "La rédaction a testé une nouvelle recette du livre-calendrier de l’Avent Marmiton : un strudel salé pour les fêtes !",
+        "lien": "https://www.marmiton.org/livres-de-cuisine/la-redaction-a-teste-une-nouvelle-recette-du-livre-calendrier-de-l-avent-marmiton-un-strudel-sale-pour-les-fetes-s4121523.html"
+    },
+    {
+        "titre_lien": "Offrir le cadeau parfait à Noël cette année : les nouveaux livres de cuisine que tous les food lovers vont adorer !",
+        "lien": "https://www.marmiton.org/shopping/offrir-le-cadeau-parfait-a-noel-cette-annee-les-nouveaux-livres-de-cuisine-que-tous-les-food-lovers-vont-adorer-s4121576.html"
+    },
+    {
+        "titre_lien": "Tarte tatin",
+        "lien": "https://www.marmiton.org/recettes/recette_tarte-tatin_12456.aspx"
+    },
+    {
+        "titre_lien": "Banana bread",
+        "lien": "https://www.marmiton.org/recettes/recette_cake-a-la-banane-banana-bread-usa_12042.aspx"
+    },
+    {
+        "titre_lien": "Butternut au four",
+        "lien": "https://www.marmiton.org/recettes/recette_courge-butternut-rotie-au-four_335311.aspx"
+    },
+    {
+        "titre_lien": "Salade composée",
+        "lien": "https://www.marmiton.org/recettes/recette_salade-composee-facile_58483.aspx"
+    },
+    {
+        "titre_lien": "Glaçage mascarpone",
+        "lien": "https://www.marmiton.org/recettes/recette_glacage-mascarpone_539540.aspx"
+    },
+    {
+        "titre_lien": "Enchiladas poulet",
+        "lien": "https://www.marmiton.org/recettes/recette_enchiladas-poulet_539537.aspx"
+    },
+    {
+        "titre_lien": "Bûche de Noël avec insert croustillant",
+        "lien": "https://www.marmiton.org/recettes/recette_buche-de-noel-avec-insert-croustillant_539535.aspx"
+    },
+    {
+        "titre_lien": "Salade de chou japonais",
+        "lien": "https://www.marmiton.org/recettes/recette_salade-de-chou-japonais_539534.aspx"
+    },
+    {
+        "titre_lien": "Voir les super offres",
+        "lien": "https://abomagazine.marmiton.org/"
+    },
+    {
+        "titre_lien": "recette avec chou blanc",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/chou-blanc"
+    },
+    {
+        "titre_lien": "recette avec chou rouge",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/chou-rouge"
+    },
+    {
+        "titre_lien": "recette avec chou fleur",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/chou-fleur"
+    },
+    {
+        "titre_lien": "recette avec endive",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/endive"
+    },
+    {
+        "titre_lien": "recette avec carottes",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/carotte"
+    },
+    {
+        "titre_lien": "recette avec potimarron",
+        "lien": "https://www.marmiton.org/recettes/index/ingredient/potimarron"
+    },
+    {
+        "titre_lien": "recette avec Cookeo",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/cookeo"
+    },
+    {
+        "titre_lien": "recette avec Thermomix",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/thermomix"
+    },
+    {
+        "titre_lien": "recette avec Airfryer",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/airfryer"
+    },
+    {
+        "titre_lien": "recette avec Monsieur Cuisine",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/monsieur-cuisine"
+    },
+    {
+        "titre_lien": "recette avec Cocotte",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/cocotte"
+    },
+    {
+        "titre_lien": "recette avec Appareil à raclette",
+        "lien": "https://www.marmiton.org/recettes/index/ustensile/appareil-a-raclette"
+    },
+    {
+        "titre_lien": "Salade de pâtes",
+        "lien": "https://www.marmiton.org/recettes/recette_salade-de-pates-au-thon_15412.aspx"
+    },
+    {
+        "titre_lien": "Houmous",
+        "lien": "https://www.marmiton.org/recettes/recette_houmous-puree-de-pois-chiches_29761.aspx"
+    },
+    {
+        "titre_lien": "Salade de riz",
+        "lien": "https://www.marmiton.org/recettes/recette_salade-de-riz-d-ete-facile_30334.aspx"
+    },
+    {
+        "titre_lien": "Caviar d'aubergine",
+        "lien": "https://www.marmiton.org/recettes/recette_caviar-d-aubergines_17847.aspx"
+    },
+    {
+        "titre_lien": "Ratatouille",
+        "lien": "https://www.marmiton.org/recettes/recette_ratatouille_23223.aspx"
+    },
+    {
+        "titre_lien": "Quiche aux poireaux",
+        "lien": "https://www.marmiton.org/recettes/recette_quiche-aux-poireaux-et-lardons_87581.aspx"
+    },
+    {
+        "titre_lien": "Tendances galettes des rois",
+        "lien": "https://www.marmiton.org/epiphanie/tendance-galette-des-rois-tp124198.html"
+    },
+    {
+        "titre_lien": "Recettes de galettes des rois",
+        "lien": "https://www.marmiton.org/epiphanie/galette-des-rois-frangipane-tp124195.html"
+    },
+    {
+        "titre_lien": "Idées originales de galettes des rois",
+        "lien": "https://www.marmiton.org/epiphanie/galette-des-rois-originale-tp124196.html"
+    },
+    {
+        "titre_lien": "Astuces galettes des rois",
+        "lien": "https://www.marmiton.org/epiphanie/astuces-galette-des-rois-tp124197.html"
+    },
+    {
+        "titre_lien": "Table de conversion",
+        "lien": "https://www.marmiton.org/pratique/table-conversion.aspx"
+    },
+    {
+        "titre_lien": "Mon frigo",
+        "lien": "https://www.marmiton.org/recettes"
+    },
+    {
+        "titre_lien": "Techniques en vidéos",
+        "lien": "https://www.marmiton.org/recettes/videos-ssc49.html"
+    },
+    {
+        "titre_lien": "Participer au forum",
+        "lien": "https://www.marmiton.org/forum/"
+    },
+    {
+        "titre_lien": "FAQ",
+        "lien": "https://www.marmiton.org/aide/faq-foire-aux-questions-s4005514.html"
+    },
+    {
+        "titre_lien": "Contact",
+        "lien": "https://www.marmiton.org/contact"
+    },
+    {
+        "titre_lien": "Gérer\n                    Utiq",
+        "lien": "https://www.marmiton.org/sp/legal/utiq.html"
+    },
+    {
+        "titre_lien": "Mentions légales",
+        "lien": "https://www.marmiton.org/sp/aide/mentions-legales.html"
+    },
+    {
+        "titre_lien": "Recrutement",
+        "lien": "https://marmiton.welcomekit.co/"
+    },
+    {
+        "titre_lien": "Conditions\n                    Générales d'Utilisation",
+        "lien": "https://www.marmiton.org/sp/aide/conditions-generales-utilisation.html"
+    },
+    {
+        "titre_lien": "Politique de confidentialité",
+        "lien": "https://www.reworldmedia.com/mentions-legales/politique-des-donnees-a-caractere-personnel-et-cookies?utm_source=marmiton.org"
+    },
+    {
+        "titre_lien": "Conditions\n                    Générales d'Abonnement",
+        "lien": "https://www.marmiton.org/sp/legal/conditions_generales_abonnement.html"
+    },
+    {
+        "titre_lien": "Foire aux questions - Vos choix sur l'utilisation de cookies",
+        "lien": "https://www.marmiton.org/sp/aide/faq-protection-des-donnees-personnelles.html#NotDisplayCmp"
+    },
+    {
+        "titre_lien": "1001cocktails.com",
+        "lien": "https://www.1001cocktails.com"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.facebook.com/marmiton"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.instagram.com/marmiton_org/"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.pinterest.fr/marmiton/"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.tiktok.com/@marmiton_org"
+    },
+    {
+        "titre_lien": "Sans titre",
+        "lien": "https://www.youtube.com/user/marmitonofficiel"
+    }
+]

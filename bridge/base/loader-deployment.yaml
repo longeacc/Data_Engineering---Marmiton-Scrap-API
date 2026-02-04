@@ -1,0 +1,39 @@
+#! loader-deployment.yaml
+# Generated code, do not edit
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: loader
+    namespace: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: loader
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            com.docker.compose.project: projet_marmiton
+            com.docker.compose.service: loader
+    strategy:
+        type: Recreate
+    template:
+        metadata:
+            labels:
+                com.docker.compose.project: projet_marmiton
+                com.docker.compose.service: loader
+                com.docker.compose.network.data_net: "true"
+        spec:
+            containers:
+                - name: marmiton-loader
+                  image: projet_marmiton-loader
+                  imagePullPolicy: IfNotPresent
+                  env:
+                    - name: MONGO_HOST
+                      value: "mongodb"
+                  volumeMounts:
+                    - name: data-dataset-json
+                      mountPath: /data/dataset.json
+            volumes:
+                - name: data-dataset-json
+                  hostPath:
+                    path: D:\CLEM\ESIEE SCHOOL\ESIEE E4\Semestre_1\P2\Data_Engineering\Projet\projet_marmiton\dataset_marmiton_final.json

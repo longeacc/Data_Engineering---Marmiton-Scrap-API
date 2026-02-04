@@ -1,0 +1,53 @@
+services:
+  # 1. Base de données (Stockage Persistant)
+  mongodb:
+    image: mongo:latest
+    container_name: marmiton_mongo
+    ports:
+      - "27017:27017"
+    networks:
+      - data_net
+
+  # 2. API (Backend FastAPI)
+  api:
+    build: ./api
+    container_name: marmiton_api
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongodb
+    networks:
+      - data_net
+    environment:
+      - MONGO_HOST=mongodb
+
+  # 3. Web App (Dashboard & API like)
+  webapp:
+    build: ./app
+    container_name: marmiton_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
+    networks:
+      - data_net
+    environment:
+      - API_URL=http://api:8000
+
+  # 5. Loader (Import initial des données JSON)
+  loader:
+    build: ./loader
+    container_name: marmiton_loader
+    volumes:
+      # On monte le fichier JSON local dans le conteneur à l'adresse /data/dataset.json
+      - ./dataset_marmiton_final.json:/data/dataset.json
+    depends_on:
+      - mongodb
+    networks:
+      - data_net
+    environment:
+      - MONGO_HOST=mongodb
+
+networks:
+  data_net:
+    driver: bridge

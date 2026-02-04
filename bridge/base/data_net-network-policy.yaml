@@ -1,0 +1,24 @@
+#! data_net-network-policy.yaml
+# Generated code, do not edit
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+    name: data-net-network-policy
+    namespace: projet-marmiton
+spec:
+    podSelector:
+        matchLabels:
+            com.docker.compose.network.data_net: "true"
+    policyTypes:
+        - Ingress
+        - Egress
+    ingress:
+        - from:
+            - podSelector:
+                matchLabels:
+                    com.docker.compose.network.data_net: "true"
+    egress:
+        - to:
+            - podSelector:
+                matchLabels:
+                    com.docker.compose.network.data_net: "true"

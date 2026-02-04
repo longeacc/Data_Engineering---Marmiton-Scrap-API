@@ -1,0 +1,35 @@
+#! api-deployment.yaml
+# Generated code, do not edit
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: api
+    namespace: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: api
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            com.docker.compose.project: projet_marmiton
+            com.docker.compose.service: api
+    strategy:
+        type: Recreate
+    template:
+        metadata:
+            labels:
+                com.docker.compose.project: projet_marmiton
+                com.docker.compose.service: api
+                com.docker.compose.network.data_net: "true"
+        spec:
+            containers:
+                - name: marmiton-api
+                  image: projet_marmiton-api
+                  imagePullPolicy: IfNotPresent
+                  env:
+                    - name: MONGO_HOST
+                      value: "mongodb"
+                  ports:
+                    - name: api-8000
+                      containerPort: 8000

@@ -1,0 +1,9 @@
+#! loader-D:\CLEM\ESIEE SCHOOL\ESIEE E4\Semestre_1\P2\Data_Engineering\Projet\projet_marmiton\dataset_marmiton_final.json-persistentVolumeClaim.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+    name: loader-d--clem-esiee-school-esiee-e4-semestre-1-p2-data-engineering-projet-projet-marmiton-dataset-marmiton-final-json
+    namespace: projet-marmiton
+spec:
+    storageClassName: "hostpath" # see docker/desktop-storage-provisioner

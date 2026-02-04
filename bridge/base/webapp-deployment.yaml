@@ -1,0 +1,35 @@
+#! webapp-deployment.yaml
+# Generated code, do not edit
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: webapp
+    namespace: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: webapp
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            com.docker.compose.project: projet_marmiton
+            com.docker.compose.service: webapp
+    strategy:
+        type: Recreate
+    template:
+        metadata:
+            labels:
+                com.docker.compose.project: projet_marmiton
+                com.docker.compose.service: webapp
+                com.docker.compose.network.data_net: "true"
+        spec:
+            containers:
+                - name: marmiton-app
+                  image: projet_marmiton-webapp
+                  imagePullPolicy: IfNotPresent
+                  env:
+                    - name: API_URL
+                      value: "http://api:8000"
+                  ports:
+                    - name: webapp-8501
+                      containerPort: 8501

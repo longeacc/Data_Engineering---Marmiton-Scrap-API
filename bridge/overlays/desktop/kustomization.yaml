@@ -1,0 +1,11 @@
+#! kustomization.yaml
+# Generated code, do not edit
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+    - ../../base
+patches:
+    - path: api-service.yaml
+    - path: loader-D:\CLEM\ESIEE SCHOOL\ESIEE E4\Semestre_1\P2\Data_Engineering\Projet\projet_marmiton\dataset_marmiton_final.json-persistentVolumeClaim.yaml
+    - path: mongodb-service.yaml
+    - path: webapp-service.yaml

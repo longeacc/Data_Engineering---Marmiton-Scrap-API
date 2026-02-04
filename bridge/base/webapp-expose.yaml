@@ -1,0 +1,18 @@
+#! webapp-expose.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Service
+metadata:
+    name: webapp
+    namespace: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: webapp
+spec:
+    selector:
+        com.docker.compose.project: projet_marmiton
+        com.docker.compose.service: webapp
+    ports:
+        - name: webapp-8501
+          port: 8501
+          targetPort: webapp-8501

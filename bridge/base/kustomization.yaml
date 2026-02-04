@@ -1,0 +1,18 @@
+#! kustomization.yaml
+# Generated code, do not edit
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+resources:
+    - 0-projet-marmiton-namespace.yaml
+    - api-deployment.yaml
+    - api-expose.yaml
+    - api-service.yaml
+    - data_net-network-policy.yaml
+    - loader-D:\CLEM\ESIEE SCHOOL\ESIEE E4\Semestre_1\P2\Data_Engineering\Projet\projet_marmiton\dataset_marmiton_final.json-persistentVolumeClaim.yaml
+    - loader-deployment.yaml
+    - mongodb-deployment.yaml
+    - mongodb-expose.yaml
+    - mongodb-service.yaml
+    - webapp-deployment.yaml
+    - webapp-expose.yaml
+    - webapp-service.yaml

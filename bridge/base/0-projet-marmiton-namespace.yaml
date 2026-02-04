@@ -1,0 +1,8 @@
+#! 0-projet-marmiton-namespace.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: projet-marmiton
+    labels:
+        com.docker.compose.project: projet_marmiton
