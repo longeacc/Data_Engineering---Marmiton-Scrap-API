@@ -3,8 +3,11 @@ services:
   mongodb:
     image: mongo:latest
     container_name: marmiton_mongo
+    restart: unless-stopped
     ports:
       - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
     networks:
       - data_net
 
@@ -12,6 +15,7 @@ services:
   api:
     build: ./api
     container_name: marmiton_api
+    restart: unless-stopped
     ports:
       - "8000:8000"
     depends_on:
@@ -25,6 +29,7 @@ services:
   webapp:
     build: ./app
     container_name: marmiton_app
+    restart: unless-stopped
     ports:
       - "8501:8501"
     depends_on:
@@ -47,6 +52,9 @@ services:
       - data_net
     environment:
       - MONGO_HOST=mongodb
+
+volumes:
+  mongodb_data:
 
 networks:
   data_net:
